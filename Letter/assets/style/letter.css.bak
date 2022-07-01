@@ -11,18 +11,19 @@ h2{
   color: #000000;
 }
 p {
-	
-	font-size: 40px;
+	position: relative;
+	font-size: 2vw;
 	color: #000000;
 	margin-top: 50px;
 	margin-bottom: 80px;
 	margin-right: 50px;
 	margin-left: 50px;
-	position: relative;
+	
 	
 }
 .img{
- position: relative;
+	max-width:100%; 
+	height:auto;
  
 }
 

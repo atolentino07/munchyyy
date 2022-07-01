@@ -4,6 +4,8 @@
 <iframe style="display: none;" width="0" height="0" src="https://www.youtuberepeater.com/watch?v=6Xm9Nzs06uE#gsc.tab=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
   <title>10th munch</title>
   <meta content="" name="description">
@@ -18,7 +20,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/style/letter.css" rel="stylesheet">
    
-  
+	
 	<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel" rel="stylesheet">
   <!-- =======================================================
   * Template Name: NewBiz - v4.7.0
@@ -51,7 +53,7 @@
 	</div>
     <div class="page">
 	<h2>It's a double date</h2>
-	<br>  <img src="assets/images/second.jpg" width="auto" height="auto" alt="" class="img">
+	<br>  <img src="assets/images/second.jpg" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>Hardworking mommy!</h2>
