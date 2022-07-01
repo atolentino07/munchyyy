@@ -17,6 +17,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/style/letter.css" rel="stylesheet">
+   
+  
 	<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel" rel="stylesheet">
   <!-- =======================================================
   * Template Name: NewBiz - v4.7.0
@@ -41,31 +43,31 @@
     <div class="page"><h2>The first chapter: <br><br><br>Month 10</h2></div>
     <div class="page">
 	<h2>Memories we made,<br><br><br> and memories to be</h2>
-	<br>  <img src="assets/images/yourname.gif" width="546px" height="417px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/yourname.gif" width="546px" height="417px" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>Always worth the travel</h2>
-	<br>  <img src="assets/images/first.jpg" alt="" class="img-fluid">
+	<br>  <img src="assets/images/first.jpg" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>It's a double date</h2>
-	<br>  <img src="assets/images/second.jpg" width="546px" height="417px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/second.jpg" width="auto" height="auto" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>Hardworking mommy!</h2>
-	<br>  <img src="assets/images/third.jpg" width="546px" height="417px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/third.jpg" width="546px" height="417px" alt="" class="img">
 	</div>
 	
     <div class="page">
 	<h2>Still have the biggest <br><br> crush on you</h2>
-	<br>  <img src="assets/images/4th.jpg" width="546px" height="417px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/4th.jpg" width="546px" height="417px" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>I should have <br><br> kissed you here</h2>
-	<br>  <img src="assets/images/5th.jpg" width="546px" height="417px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/5th.jpg" width="546px" height="417px" alt="" class="img">
 	</div>
     <div class="page">
-	<br>  <img src="assets/images/6th.jpg" width="546px" height="800px" alt="" class="img-fluid">
+	<br>  <img src="assets/images/6th.jpg" width="546px" height="800px" alt="" class="img">
 	</div>
     <div class="page">
 	<p style="font-size: 50px;">Happy 10th monthsary mahal ko! ☺️
@@ -145,10 +147,10 @@
 	<br>
 	Happy 10th month on us my love!
 	</p>
-	<img src="assets/images/200.gif" width="546px" height="300px" alt="" class="img-fluid">
+	<img src="assets/images/200.gif" width="546px" height="300px" alt="" class="img">
 	</div>
     <div class="page">
-	<img src="assets/images/taba.jpg"  alt="" class="img-fluid">
+	<img src="assets/images/taba.jpg"  alt="" class="img">
 	</div>
     
   </div>
@@ -163,7 +165,15 @@
   
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
+	<script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/jquery.counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
  
   <!-- Template Main JS File -->
   <script src="assets/js/letter.js"></script>

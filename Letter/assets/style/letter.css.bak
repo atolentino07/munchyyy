@@ -18,6 +18,12 @@ p {
 	margin-bottom: 80px;
 	margin-right: 50px;
 	margin-left: 50px;
+	position: relative;
+	
+}
+.img{
+ position: relative;
+ 
 }
 
 .page {
@@ -81,12 +87,12 @@ p {
   z-index: 2;
 }
 .book .page:nth-child(odd) {
+	
   pointer-events: all;
   transform: rotateY(0deg);
   right: 0;
   border-radius: 0 4px 4px 0;
   background-image: linear-gradient( 92.7deg,  rgba(245,212,212,1) 8.5%, rgba(252,251,224,1) 90.2% );
-  position: relative;
 }
 .book .page:nth-child(odd):hover {
   transform: rotateY(-15deg);
@@ -105,7 +111,6 @@ p {
   border-radius: 4px 0 0 4px;
   border-color: black;
   background-image: linear-gradient( 92.7deg,  rgba(245,212,212,1) 8.5%, rgba(252,251,224,1) 90.2% );
-  position: relative;
 }
 .book .page:nth-child(even):before {
   background: rgba(0, 0, 0, 0.2);

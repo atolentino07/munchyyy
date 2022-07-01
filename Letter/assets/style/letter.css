@@ -18,6 +18,12 @@ p {
 	margin-bottom: 80px;
 	margin-right: 50px;
 	margin-left: 50px;
+	
+	
+}
+.img{
+ position: relative;
+ 
 }
 
 .page {
@@ -81,6 +87,7 @@ p {
   z-index: 2;
 }
 .book .page:nth-child(odd) {
+	
   pointer-events: all;
   transform: rotateY(0deg);
   right: 0;
