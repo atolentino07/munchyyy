@@ -156,7 +156,7 @@ body {
   align-items: center;
   padding: 2em 0;
   line-height: 1.5em;
-  background-image: url("Letter/images/fairy.jpg");
+  background-image: url("https://wallpapercave.com/wp/wp2329296.jpg");
 }
 .page:nth-child(odd){
   background-position: right top;

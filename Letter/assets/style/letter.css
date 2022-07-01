@@ -36,6 +36,7 @@ p {
 }
 .book {
   perspective: 250vw;
+  position: relative;
   
   
 }
