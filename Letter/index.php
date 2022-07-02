@@ -57,12 +57,12 @@
 	</div>
     <div class="page">
 	<h2>Hardworking mommy!</h2>
-	<br>  <img src="assets/images/third.jpg" alt="" class="img">
+	<br>  <img src="assets/images/third.jpg" width="100%" height="38%"alt="" class="img">
 	</div>
 	
     <div class="page">
 	<h2>Still have the biggest <br><br> crush on you</h2>
-	<br>  <img src="assets/images/4th.jpg" alt="" class="img">
+	<br>  <img src="assets/images/4th.jpg" width="100%" height="51%" alt="" class="img">
 	</div>
     <div class="page">
 	<h2>I should have <br><br> kissed you here</h2>
@@ -157,8 +157,11 @@
 	<img src="assets/images/200.gif" alt="" class="img">
 	</p>
 	</div>
+	
 	<div class="page"></div>
 	<div class="page"></div>
+	
+	
     
   </div>
 </div>
