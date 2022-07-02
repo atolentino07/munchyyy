@@ -11,7 +11,7 @@ h2{
   color: #000000;
 }
 p {
-	position: relative;
+	position: absolute;
 	font-size: 2vw;
 	color: #000000;
 	margin-top: 50px;
@@ -23,7 +23,10 @@ p {
 }
 .img{
 	max-width:100%; 
-	height:auto;
+	height: auto;
+	
+	width:546px; 
+	
  
 }
 
