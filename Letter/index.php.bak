@@ -158,9 +158,6 @@
 	</p>
 	</div>
 	<div class="page"></div>
-    <div class="page">
-	<img src="assets/images/taba.jpg"  alt="" class="img">
-	</div>
     
   </div>
 </div>
